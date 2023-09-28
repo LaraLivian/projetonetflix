@@ -125,3 +125,10 @@ form{
     background-color: black;
     margin: 0 auto;
 }
+@media screen and (max-width: 760px){
+.produto-container{
+    width: 100%;
+    flex-direction: column;
+}
+
+}
